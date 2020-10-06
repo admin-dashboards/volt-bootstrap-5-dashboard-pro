@@ -14,10 +14,14 @@ This product is built using the following widely used technologies:
 
 **Tooling** - Sass files and a Gulp commands file that will let you build minified and un-minified project files with the ability to even add certain blocks of code based on your environment.
 
-**Resources**
+<br />
+
+> Links
 
 - [Product Page](https://themesberg.com/product/admin-dashboard/volt-premium-bootstrap-5-dashboard) - hosted by [Themesberg](https://appseed.us/agency/themesberg)
 - [Product Docs - Quick Start](https://themesberg.com/docs/volt-bootstrap-5-dashboard/getting-started/quick-start/) - official product documentation
+
+<br />
 
 ![Volt Dashboard PRO - Premium Bootstrap 5 Admin Dashboard, animated presentation.](https://raw.githubusercontent.com/admin-dashboards/volt-bootstrap-5-dashboard-pro/main/media/volt-bootstrap-5-dashboard-pro-intro.gif)
 
