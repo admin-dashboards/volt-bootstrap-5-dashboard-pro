@@ -52,4 +52,4 @@ This product is built using the following widely used technologies:
 <br />
 
 ---
-**Volt Dashboard PRO** - Premium Bootstrap 5 Admin Dashboard provided by [Themesberg](https://appseed.us/agency/themesberg).
+**[Volt Dashboard PRO](https://docs.appseed.us/bootstrap-template/volt-dashboard-pro/)** - Premium Bootstrap 5 Admin Dashboard provided by [Themesberg](https://appseed.us/agency/themesberg).
